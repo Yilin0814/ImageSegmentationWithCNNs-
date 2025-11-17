@@ -35,6 +35,8 @@ The project follows a modular structure to ensure clean code and reproducibility
     └── predictions/
 
 ```
+https://github.com/Yilin0814/ImageSegmentationWithCNNs-/blob/main/Snipaste_2025-11-16_20-43-07.jpg?raw=true<img width="942" height="536" alt="image" src="https://github.com/user-attachments/assets/e4bba5c5-c5d2-4eb8-8c7f-9def18c668bb" />
+
 
 ## 🚀 Installation & Requirements
 Ensure you have Python installed. You can install the necessary dependencies using:

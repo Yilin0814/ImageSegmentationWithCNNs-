@@ -39,9 +39,9 @@ The project follows a modular structure to ensure clean code and reproducibility
 ## 🚀 Installation & Requirements
 Ensure you have Python installed. You can install the necessary dependencies using:
 
-
+```
 pip install torch torchvision pandas pillow tqdm
-
+```
 
 ## ⚙️ Usage
 1. Training the Model
@@ -81,7 +81,7 @@ Loss Function: Soft Dice Loss (optimized to maximize overlap).
 
 Optimization: AdamW optimizer.
 
-📊 Results
+## 📊 Results
 Metric: Dice Score (Range: 0.0 to 1.0).
 
 Best Validation Score: 0.9580

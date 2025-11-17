@@ -1,5 +1,3 @@
-# ImageSegmentationWithCNNs-
-
 # Bone Structure Segmentation with U-Net
 
 This project implements a deep learning pipeline for the automatic semantic segmentation of bone structures (tibia or femur) from X-ray images. It uses a custom U-Net architecture (`UNetLext`) trained on manually annotated data.
